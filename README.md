@@ -8,5 +8,4 @@ Broadly, I am interested in understanding the ecological and evolutionary mechan
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipetorresvanegas" />
 </a>
 [![trophy](https://github-profile-trophy.vercel.app/?username=felipetorresvanegas&title=Commits,Followers,Repositories)](https://github.com/felipetorresvanegas/github-profile-trophy)
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetorresvanegas&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipetorresvanegas&layout=compact)](https://github.com/felipetorresvanegas/github-readme-stats)
+
