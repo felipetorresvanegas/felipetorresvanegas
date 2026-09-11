@@ -1,3 +1,1 @@
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipetorresvanegas&count_private=true&show_icons=true)
-
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=felipetorresvanegas&title=Commits,Followers,Repositories,Stars)](https://github.com/felipetorresvanegas/github-profile-trophy)
+[![Felipe's GitHub stats](https://github-stats-extended.vercel.app/api?username=felipetorresvanegas)](https://github.com/stats-organization/github-stats-extended)
