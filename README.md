@@ -4,7 +4,7 @@
 
 I study **how ecological interactions shape evolution and biodiversity**.
 
-My research uses plant–pollinator interactions as a lens to connect processes operating across scales — from **floral traits and pollinator communities** to **phenotypic selection, plant mating, pollen movement, landscape connectivity, and gene flow**.
+My research uses **plant–pollinator interactions to connect ecological processes with evolutionary outcomes**, linking variation in floral traits, pollinator communities, and landscape context to selection, plant reproduction, pollen movement, and gene flow.
 
 I’m particularly interested in the mechanisms that connect **ecology → evolution → biodiversity**.
 
