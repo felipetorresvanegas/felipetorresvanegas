@@ -1,1 +1,2 @@
 [![Felipe's GitHub stats](https://github-stats-extended.vercel.app/api?username=felipetorresvanegas)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=felipetorresvanegas&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=felipetorresvanegas&langs_count=4&theme=light_github)
