@@ -30,7 +30,7 @@ How does landscape structure influence the movement of pollinators and, ultimate
 
 ## 💻 What You'll Find Here
 
-This GitHub is where I share **code, analyses, workflows, data products, figures, and research tools** supporting my work in ecology and evolution.
+This GitHub is where I share **code, analyses, workflows, data, figures, and research tools** supporting my work in ecology and evolution.
 
 I’m especially interested in making ecological research:
 
@@ -43,5 +43,7 @@ I’m especially interested in making ecological research:
 ---
 
 [ORCID](https://orcid.org/0000-0003-3093-3701) · [Publications](https://felipetorresvanegas.github.io/publications/) · [Website](https://felipetorresvanegas.github.io/)
+
+---
 
 [![Felipe's GitHub stats](https://github-stats-extended.vercel.app/api?username=felipetorresvanegas)](https://github.com/stats-organization/github-stats-extended)
